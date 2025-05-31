@@ -179,9 +179,9 @@ Narrative Dashboard connects to your actual business platforms:
 ### Quick Start
 
 1. **Visit the Website**
-   \`\`\`
+   ```
    https://narrative-dashboard.vercel.app
-   \`\`\`
+   ```
 
 2. **Explore Features**
    - Browse all sections without login
@@ -206,23 +206,23 @@ Narrative Dashboard connects to your actual business platforms:
 ### Installation for Developers
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```bash
    git clone https://github.com/your-username/narrative-dashboard.git
    cd narrative-dashboard
-   \`\`\`
+   ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. **Set up environment variables**
-   \`\`\`bash
+   ```bash
    cp .env.example .env.local
-   \`\`\`
+   ```
    
    Add your API keys:
-   \`\`\`env
+   ```env
    # Required
    GEMINI_API_KEY=your_gemini_api_key_here
    
@@ -231,12 +231,12 @@ Narrative Dashboard connects to your actual business platforms:
    SHOPIFY_STORE_URL=https://your-store.myshopify.com
    SALESFORCE_API_KEY=your_salesforce_access_token
    STRIPE_API_KEY=sk_live_your_stripe_secret_key
-   \`\`\`
+   ```
 
 4. **Run development server**
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 5. **Open browser**
    Navigate to `http://localhost:3000`
@@ -244,26 +244,26 @@ Narrative Dashboard connects to your actual business platforms:
 ## 💼 Business Platform Setup
 
 ### Shopify Integration
-\`\`\`bash
+```bash
 # Required credentials
 SHOPIFY_API_KEY=your_shopify_access_token
 SHOPIFY_STORE_URL=https://your-store.myshopify.com
-\`\`\`
+```
 **Data Retrieved**: Orders, products, customers, inventory, sales analytics
 
 ### Salesforce Integration
-\`\`\`bash
+```bash
 # Required credentials
 SALESFORCE_API_KEY=your_salesforce_access_token
 SALESFORCE_INSTANCE_URL=https://yourinstance.salesforce.com
-\`\`\`
+```
 **Data Retrieved**: Leads, opportunities, accounts, contacts, sales pipeline
 
 ### Stripe Integration
-\`\`\`bash
+```bash
 # Required credentials
 STRIPE_API_KEY=sk_live_your_stripe_secret_key
-\`\`\`
+```
 **Data Retrieved**: Payments, subscriptions, customers, transaction analytics
 
 ## 📈 Real Business Metrics
@@ -309,22 +309,22 @@ STRIPE_API_KEY=sk_live_your_stripe_secret_key
 4. Deploy with automatic builds
 
 ### Self-Hosted
-\`\`\`bash
+```bash
 # Build for production
 npm run build
 
 # Start production server
 npm start
-\`\`\`
+```
 
 ### Docker Deployment
-\`\`\`bash
+```bash
 # Build Docker image
 docker build -t narrative-dashboard .
 
 # Run container
 docker run -p 3000:3000 narrative-dashboard
-\`\`\`
+```
 
 ## 💰 Pricing & Plans
 
@@ -403,6 +403,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <img src="https://img.shields.io/badge/AI-Google%20Gemini-orange" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" />
 </p>
-#   N a r r a t i v e - D a s h b o a r d 
- 
- 
