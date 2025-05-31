@@ -403,5 +403,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   <img src="https://img.shields.io/badge/AI-Google%20Gemini-orange" alt="Google Gemini" />
   <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License" />
 </p>
-#   N a r r a t i v e - D a s h b o a r d  
+#   N a r r a t i v e - D a s h b o a r d 
+ 
  
