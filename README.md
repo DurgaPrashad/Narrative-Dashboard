@@ -2,6 +2,7 @@
 
 Transform your business data into actionable insights with AI-powered natural language analysis.
 
+
 ## 🎯 What is Narrative Dashboard?
 
 Narrative Dashboard is a professional business intelligence platform that connects to your existing business tools (Shopify, Salesforce, QuickBooks, etc.) and uses Google's Gemini AI to provide instant insights through natural language conversations.
@@ -11,6 +12,7 @@ Narrative Dashboard is a professional business intelligence platform that connec
 - "Which products are my best sellers?"
 - "Compare this quarter's performance to last quarter"
 - "Show me customer acquisition trends"
+![image](https://github.com/user-attachments/assets/5ff5ae1d-81ff-4816-9e18-da50956b7247)
 
 ## 🌐 User Experience Flow
 
@@ -25,12 +27,13 @@ Narrative Dashboard is a professional business intelligence platform that connec
 - Quick signup with business details (name, company, email)
 - Professional authentication system
 - Can return to main website anytime
-
+![image](https://github.com/user-attachments/assets/7ef28874-fa10-4bf5-9cc1-c093258ea202)
 ### 3. **Connect Your Business**
 - After login, connect your business platforms
 - Choose from 50+ integrations (Shopify, Salesforce, Stripe, etc.)
 - Secure OAuth connections and API integrations
 - Test connections with real data
+![image](https://github.com/user-attachments/assets/cac9739a-99a0-4e27-a2ab-d4e1a3071f75)
 
 ### 4. **Get AI Insights**
 - Ask questions in natural language
