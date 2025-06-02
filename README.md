@@ -233,8 +233,11 @@ Narrative Dashboard connects to your actual business platforms:
    SHOPIFY_API_KEY=your_shopify_access_token
    SHOPIFY_STORE_URL=https://your-store.myshopify.com
    SALESFORCE_API_KEY=your_salesforce_access_token
-   STRIPE_API_KEY=sk_live_your_stripe_secret_key
+   STRIPE_API_KEY=sk_live_your_stripe_secret_key 
+   
    ```
+![image](https://github.com/user-attachments/assets/ef9a1028-2619-4569-b2d3-17874f4d0033)
+
 
 4. **Run development server**
    ```bash
